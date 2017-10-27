@@ -1,0 +1,116 @@
+/bin/bash: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: line 3: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: line 3: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+make[1]: ppc_8xx-gcc: Command not found
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 1: ppc_8xx-gcc: not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+make[1]: *** No rule to make target '.depend', needed by '_depend'.  Stop.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 1: ppc_8xx-gcc: not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+make[1]: *** No rule to make target '.depend', needed by '_depend'.  Stop.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+In file included from default_image.c:31:0:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+In file included from fit_image.c:31:0:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+In file included from /home/opensource/uboot/stm32f746-uboot/project/common/image.c:74:0:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+In file included from imximage.c:32:0:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+kwbimage.c: In function ‘kwbimage_verify_header’:
+kwbimage.c:350:10: warning: variable ‘calc_exthdrcsum’ set but not used [-Wunused-but-set-variable]
+  uint8_t calc_exthdrcsum;
+          ^
+In file included from kwbimage.c:29:0:
+kwbimage.c: At top level:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+In file included from mkimage.c:25:0:
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:553:12: warning: inline function ‘fit_parse_subimage’ declared but never defined
+ inline int fit_parse_subimage (const char *spec, ulong addr_curr,
+            ^
+/home/opensource/uboot/stm32f746-uboot/project/include/image.h:551:12: warning: inline function ‘fit_parse_conf’ declared but never defined
+ inline int fit_parse_conf (const char *spec, ulong addr_curr,
+            ^
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 1: ppc_8xx-gcc: not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+make[1]: *** [hello_world.o] Error 127
+make: *** [examples/standalone] Error 2

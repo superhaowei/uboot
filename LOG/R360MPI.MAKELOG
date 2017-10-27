@@ -1,0 +1,17 @@
+Generating include/autoconf.mk
+Generating include/autoconf.mk.dep
+for dir in tools examples/standalone examples/api cpu/mpc8xx /home/opensource/uboot/stm32f746-uboot/project/board/r360mpi/ ; do \
+		make -C $dir _depend ; done
+make[1]: Entering directory '/home/opensource/uboot/stm32f746-uboot/project/tools'
+make[1]: Nothing to be done for '_depend'.
+make[1]: Leaving directory '/home/opensource/uboot/stm32f746-uboot/project/tools'
+make[1]: Entering directory '/home/opensource/uboot/stm32f746-uboot/project/examples/standalone'
+make[1]: Leaving directory '/home/opensource/uboot/stm32f746-uboot/project/examples/standalone'
+make[1]: Entering directory '/home/opensource/uboot/stm32f746-uboot/project/examples/api'
+make[1]: Nothing to be done for '_depend'.
+make[1]: Leaving directory '/home/opensource/uboot/stm32f746-uboot/project/examples/api'
+make[1]: Entering directory '/home/opensource/uboot/stm32f746-uboot/project/cpu/mpc8xx'
+make[1]: Leaving directory '/home/opensource/uboot/stm32f746-uboot/project/cpu/mpc8xx'
+make[1]: Entering directory '/home/opensource/uboot/stm32f746-uboot/project/board/r360mpi'
+make[1]: Leaving directory '/home/opensource/uboot/stm32f746-uboot/project/board/r360mpi'
+Makefile:438: recipe for target 'depend' failed

@@ -1,0 +1,62 @@
+/bin/bash: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: line 3: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: line 3: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/bash: ppc_8xx-gcc: command not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+make[1]: ppc_8xx-gcc: Command not found
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 1: ppc_8xx-gcc: not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+make[1]: *** No rule to make target '.depend', needed by '_depend'.  Stop.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 1: ppc_8xx-gcc: not found
+dirname: missing operand
+Try 'dirname --help' for more information.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+make[1]: *** No rule to make target '.depend', needed by '_depend'.  Stop.
+make[1]: ppc_8xx-gcc: Command not found
+/bin/sh: 3: ppc_8xx-gcc: not found
+make[1]: *** No rule to make target '.depend', needed by '_depend'.  Stop.
+make: *** [depend] Error 2
